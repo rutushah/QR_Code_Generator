@@ -1,6 +1,6 @@
 # QR Code Generator using Python
 
-Developed by **Rutu Ketankumar Shah**  
+Developed by **Rutu Shah**  
 For **QR Code Generation for input of Bios System URL**
 
 ---
