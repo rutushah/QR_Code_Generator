@@ -1,14 +1,12 @@
 # QR Code Generator using Python
 
 Developed by **Rutu Ketankumar Shah**  
-For **Biox Systems**
+For **QR Code Generation for input of Bios System URL**
 
 ---
 
 ## 📌 Introduction
-
-Invented in 1994 by the Japanese company **Denso Wave**, a **QR Code (Quick Response Code)** is a two-dimensional matrix barcode that holds information readable by machines. This project demonstrates a desktop application that allows users to input a URL and generate its corresponding QR code.
-
+This project demonstrates a basic desktop application developed in Python to generate a QR code for any URL provided by a user. The QR code can be scanned by smartphones or other similar devices to open the related web content. and can be used to make a call, sent a message, open a website or even redirect to the location.
 ---
 
 ## 🎯 Objective
@@ -36,8 +34,17 @@ Build a Python application that:
 1. **Install Python:**  
    Download from [https://www.python.org](https://www.python.org)
 
-2. **Install required libraries:**  
+2. **Clone this URL*
+   ```
+      git clone https://github.com/your-username/qr-code-generator.git
+      cd qr-code-generator
+   
+3. **Install required libraries:**  
    Run the following in your terminal:
    ```bash
    pip install qrcode[pil]
    pip install pillow
+
+4. **Run the application using below mentioned command**
+   ```
+   python3 guiQRCode.py
