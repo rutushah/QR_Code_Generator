@@ -7,7 +7,7 @@ For **QR Code Generation for input of Bios System URL**
 
 ## 📌 Introduction
 
-This project demonstrates a basic desktop application developed in Python to generate a QR code for any URL provided by a user. The QR code can be scanned by smartphones or other similar devices to open the related web content. and can be used to make a call, sent a message, open a website or even redirect to the location.
+### This project demonstrates a basic desktop application developed in Python to generate a QR code for any URL provided by a user. The QR code can be scanned by smartphones or other similar devices to open the related web content. and can be used to make a call, sent a message, open a website or even redirect to the location.
 ---
 
 ## 🎯 Objective
